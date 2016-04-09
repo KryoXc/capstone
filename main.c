@@ -111,7 +111,7 @@ int main(int argc, char *argv[]) {
     // if library has been loaded. flag? lib != NULL? 
     // parse();
 
-
+// test comment
     /* serializer
      * communicate with Arduino
      * format correctly
